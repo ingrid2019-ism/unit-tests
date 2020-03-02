@@ -1,4 +1,4 @@
-import { firstLast } from './2-first-last'
+npm run test--import { firstLast } from './2-first-last'
 
 describe('2-first-last', () => {
   it('should return the first and last items from an array with two items', () => {
